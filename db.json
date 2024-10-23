@@ -1,0 +1,39 @@
+{
+  "employeeDetails": [
+    {
+      "eId": "1001",
+      "eName": "Keerthana",
+      "eEmail": "keerthana@gmail.com",
+      "eStatus": "active",
+      "id": 1
+    },
+    {
+      "eId": "1002",
+      "eName": "Gokul",
+      "eEmail": "Gokul@gmail.com",
+      "eStatus": "active",
+      "id": 2
+    },
+    {
+      "eId": "1003",
+      "eName": "Athidev",
+      "eEmail": "Athi@gmail.com",
+      "eStatus": "active",
+      "id": 3
+    },
+    {
+      "eId": "1005",
+      "eName": "Akhil",
+      "eEmail": "akhil@gmail.com",
+      "eStatus": "inactive",
+      "id": 4
+    },
+    {
+      "eId": "1006",
+      "eName": "Vedha",
+      "eEmail": "vedha@gmail.com",
+      "eStatus": "inactive",
+      "id": 5
+    }
+  ]
+}
